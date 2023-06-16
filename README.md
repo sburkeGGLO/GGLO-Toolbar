@@ -1,7 +1,10 @@
 # GGLO-Toolbar
 
-The GGLO Toolbar is a pyRevit extension, and is built on version 4.8.13, which is compatible with Revit 2024.
-  https://github.com/eirannejad/pyRevit
+The GGLO Toolbar is a pyRevit extension, and is built on the WIP version 4.8.13, which is compatible up to Revit 2024.
+https://github.com/eirannejad/pyRevit
+
+Many thanks to the Aussi BIM Guru for the guRoo sample extension, of which some of the tools are based.
+https://github.com/aussieBIMguru/guRoo
 
 The following method can be used to avoid installing pyRevit via the Settings menu from within Revit itself, and might be beneficial to automate company related installation process' as well. Thanks to Jean-Marc Couffin for suggesting/helping write this section!
 
