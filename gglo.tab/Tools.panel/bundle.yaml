@@ -2,4 +2,13 @@ layout:
   - Preselect_byCategory
   - CopyKeynotes
   - ImportWalls
+  - Select
+  - Revisions
+  - Worksets
+  - ----
+  - Find
+  - Audit
+  - ----
+  - Export
+  - Import
 title: Tools
