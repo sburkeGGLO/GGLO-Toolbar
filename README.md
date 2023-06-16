@@ -9,7 +9,8 @@ The following method can be used to avoid installing pyRevit via the Settings me
 Install pyRevit from https://github.com/eirannejad/pyRevit/releases
 WIN+R, then type 'cmd'
 In the command line, install the extension with the following command:
-  
+
+*****************
 pyrevit extend ui GGLO-Toolbar https://github.com/sburkeGGLO/GGLO-Toolbar.git --dest="C:\\_GGLO\RevitTools" --branch=main
-  
+***************** 
   If Revit was opened, use the reload button of pyRevit
