@@ -6,7 +6,7 @@ https://github.com/eirannejad/pyRevit
 Many thanks to the Aussi BIM Guru for the guRoo sample extension, of which some of the tools are based.
 https://github.com/aussieBIMguru/guRoo
 
-The following method can be used to avoid installing pyRevit via the Settings menu from within Revit itself, and might be beneficial to automate company related installation process' as well. Thanks to Jean-Marc Couffin for suggesting/helping write this section!
+The following method can be used to avoid installing pyRevit via the Settings menu from within Revit itself, and might be beneficial to automate company related installation process' as well.
 
 # Directly installing the GGLO-Toolbar
 Install pyRevit from https://github.com/eirannejad/pyRevit/releases
