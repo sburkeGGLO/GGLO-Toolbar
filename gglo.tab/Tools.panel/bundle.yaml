@@ -1,10 +1,5 @@
 layout:
-  - Select
-  - Revisions
-  - Worksets
-  - ----
-  - Find
-  - Audit
-  - ----
-  - Export
-  - Import
+  - Preselect_byCategory
+  - CopyKeynotes
+  - ImportWalls
+title: Tools
