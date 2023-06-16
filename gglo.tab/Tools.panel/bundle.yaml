@@ -1,0 +1,10 @@
+layout:
+  - Select
+  - Revisions
+  - Worksets
+  - ----
+  - Find
+  - Audit
+  - ----
+  - Export
+  - Import
